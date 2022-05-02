@@ -1,1 +1,1 @@
-# bit-Integral
+# bits-Integral
